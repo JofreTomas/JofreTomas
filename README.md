@@ -92,7 +92,8 @@ Meu nome é Jofre Tomas, tenho 28 anos e sou natural de Salvador. Estou cursando
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
+  <img
+    align="center"
     align="left" 
     alt="GitHub Stats" 
     height="150" 
@@ -101,6 +102,7 @@ Meu nome é Jofre Tomas, tenho 28 anos e sou natural de Salvador. Estou cursando
   />
 
 <img 
+      align="center"
       align="left" 
       alt="GitHub Stats" 
       height="150" 
