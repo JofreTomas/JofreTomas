@@ -108,5 +108,3 @@ Meu nome é Jofre Tomas, tenho 28 anos e sou natural de Salvador. Estou cursando
   />
 
 </p>
-
-![snake gif](https://github.com/JofreTomas/JofreTomas/blob/output/github-contribution-grid-snake.svg)
